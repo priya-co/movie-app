@@ -1,9 +1,6 @@
-.search-wrapper {
-  color: wheat;
-}
-
 .nav {
   background-color: darkgray;
+  color: white;
 }
 
 .select-type {
@@ -11,35 +8,17 @@
   font-size: 17px;
   cursor: pointer;
   padding: 10px;
+  border: none;
+  color: white;
 }
 
 .search-btn {
   margin: 10px;
   padding: 12px;
   font-size: 17px;
-  background-color: red;
+  background-color: green;
   border: none;
   border-radius: 5px;
   color: white;
-}
-
-.initial-msg {
-  font-size: 21px;
-  margin: 0px;
-  font-style: italic;
-}
-
-.dancing-img {
-  height: 450px;
-}
-.nofound-msg {
-  padding: 30px;
-  font-size: 16px;
-  font-style: italic;
-}
-
-.sucess-msg {
-  padding: 20px;
-  font-size: 20px;
-  font-style: italic;
+  cursor: pointer;
 }

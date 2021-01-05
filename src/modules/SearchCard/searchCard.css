@@ -1,25 +1,28 @@
 .search-card {
-  display: flex;
+  /* display: flex; */
   padding: 20px;
   width: 250px;
   margin: 10px;
   background-color: LIGHTSLATEGREY;
+  border-radius: 7px;
+  box-shadow: 4px 4px 1px 1px #695a5a;
 }
 
 .nudge {
   color: white;
-  background: red;
+  background: green;
   text-align: left;
   width: 70px;
   position: absolute;
   padding: 5px;
-  align-items: center;
+  text-align: center;
 }
 
 .card-name {
   color: white;
   padding: 7px;
   text-decoration: none !important;
+  font-size: 20px;
 }
 
 .card-img {

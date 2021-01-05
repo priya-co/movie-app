@@ -17,6 +17,7 @@
   display: flex;
   flex-wrap: wrap;
   margin: 30px;
+  justify-content: space-around;
 }
 
 .App-header {
@@ -41,4 +42,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.initial-msg {
+  font-size: 21px;
+  margin: 0px;
+  font-style: italic;
+  padding: 40px;
+}
+
+.dancing-img {
+  height: 450px;
+}
+.no-found-msg {
+  padding: 30px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.sucess-msg {
+  padding: 20px;
+  font-size: 20px;
+  font-style: italic;
 }
