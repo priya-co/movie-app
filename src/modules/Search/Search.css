@@ -1,0 +1,17 @@
+.search-box {
+  width: 400px;
+  padding: 20px;
+  font-size: 24px;
+  background-color: darkgray;
+  border: none;
+  color: white;
+}
+
+.search-box:focus {
+  outline: none;
+}
+
+.search-icon {
+  font-size: 30px !important;
+  color: white;
+}

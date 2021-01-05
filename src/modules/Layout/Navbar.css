@@ -1,0 +1,45 @@
+.search-wrapper {
+  color: wheat;
+}
+
+.nav {
+  background-color: darkgray;
+}
+
+.select-type {
+  background-color: darkgray;
+  font-size: 17px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.search-btn {
+  margin: 10px;
+  padding: 12px;
+  font-size: 17px;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.initial-msg {
+  font-size: 21px;
+  margin: 0px;
+  font-style: italic;
+}
+
+.dancing-img {
+  height: 450px;
+}
+.nofound-msg {
+  padding: 30px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.sucess-msg {
+  padding: 20px;
+  font-size: 20px;
+  font-style: italic;
+}
